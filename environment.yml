@@ -1,0 +1,13 @@
+name: main
+channels:
+  - conda-forge
+prefix: C:\miniconda3\envs\main
+packages:
+  - python
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - opencv
+  - tesseract
+  - pytesseract
+  - jupyterlab
