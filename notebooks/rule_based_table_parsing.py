@@ -191,10 +191,3 @@ def img_2_table(im):
     )
     df = im_to_data(im)
     return grid_2_table(grid, df)
-
-
-
-
-
-
-
